@@ -108,7 +108,7 @@ author:
   name             : "Dogegi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : ""
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
