@@ -1,3 +1,12 @@
+---
+categories:
+  - ethereum
+tags:
+  - ethereum
+  - golang
+  - web3
+---
+
 Make sure your gopath is correct
 
 export GOPATH=$HOME/go
