@@ -292,8 +292,3 @@ defaults:
       comments: # true
       share: true
       related: true
-      
-collections:
-  redirects:
-    output: true
-    permalink: /:categories/
