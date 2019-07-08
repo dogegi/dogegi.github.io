@@ -6,6 +6,7 @@ tags:
   - golang
   - web3
 ---
+link: https://ethereum.stackexchange.com/questions/45322/unable-to-generate-go-ethereum-bindings-using-abigen
 
 Make sure your gopath is correct
 
