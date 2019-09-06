@@ -1,10 +1,13 @@
+---
+title: "Linux Jar Service 등록"
+categories: Linux
+---
+
 출처: http://blog.naver.com/PostView.nhn?blogId=kkwangeun&logNo=220975836994&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
 
 - jar 실행 myapp-start.sh
 #!/bin/bash
  java -jar myapp.jar 
-
-
 
 - jar 실행 종료 myapp-stop.sh
 #!/bin/bash 
