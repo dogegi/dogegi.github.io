@@ -26,15 +26,16 @@ root     158511  0.0  0.0      0     0 pts/0    Z    07:26   0:00 java
 # 
 # description: bla bla 
 case $1 in
-              start) 
-              /bin/bash /usr/local/bin/myapp-start.sh
-         ;; 
-               stop) /bin/bash /usr/local/bin/myapp-stop.sh 
-         ;; 
-         restart)
-                    /bin/bash /usr/local/bin/myapp-stop.sh 
-                    /bin/bash /usr/local/bin/myapp-start.sh 
-         ;; 
+    start) 
+        /bin/bash /usr/local/bin/myapp-start.sh
+    ;; 
+    stop)
+        /bin/bash /usr/local/bin/myapp-stop.sh 
+    ;; 
+    restart)
+        /bin/bash /usr/local/bin/myapp-stop.sh 
+        /bin/bash /usr/local/bin/myapp-start.sh 
+    ;; 
 esac 
 exit 0
 
